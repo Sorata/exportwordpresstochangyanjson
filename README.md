@@ -1,0 +1,2 @@
+# exportwordpresstochangyanjson
+导出WordPress留言数据到搜狐畅言所需Json数据
